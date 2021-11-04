@@ -1,4 +1,4 @@
-  <7 KYU>
+  *<7 KYU>*
 
 Filter the number
 Oh no! The number has been mixed up with the text. Your goal is to retreive the number from the text, can you return the number back to it's original state?
